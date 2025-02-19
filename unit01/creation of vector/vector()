@@ -1,0 +1,15 @@
+ numeric_vector<-vector("numeric",length=10)
+> numeric_vector
+ [1] 0 0 0 0 0 0 0 0 0 0
+> character_vector<-vector("character",length=5)
+> character_vector
+[1] "" "" "" "" ""
+> logical_vector<-vector("logical",length=5)
+> logical_vector
+[1] FALSE FALSE FALSE FALSE FALSE
+> integer_vector<-vector("integer",length=5)
+> integer_vector
+[1] 0 0 0 0 0
+> complex_vector<-vector("complex",length=5)
+> complex_vector
+[1] 0+0i 0+0i 0+0i 0+0i 0+0i
